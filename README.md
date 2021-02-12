@@ -45,3 +45,4 @@ Html/Css/Javascript/Bootstrap
 ## Notes:</br>
 To create the trial database you can use the sql files provided: Create DB/Data for DB.</br>
 You will need to modify ForgotPassword.java with your own admin email/password details (must be gmail), and NewAuction.java with a path to your images folder.
+test
